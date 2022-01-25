@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bde363d4-7d28-4e3c-ae9e-026ad9d19d03": {
+      "ProjectGuid": "bde363d4-7d28-4e3c-ae9e-026ad9d19d03",
+      "DisplayName": "BinaryGap",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,30 @@
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.AssemblyReference.cache
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfoInputs.cache
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfo.cs
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.CoreCompileInputs.cache
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\BinaryGap.exe
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\BinaryGap.deps.json
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\BinaryGap.runtimeconfig.json
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\BinaryGap.dll
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\ref\BinaryGap.dll
+D:\100 Days 100 Projects (C#)\BinaryGap\bin\Debug\net6.0\BinaryGap.pdb
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.dll
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\ref\BinaryGap.dll
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.pdb
+D:\100 Days 100 Projects (C#)\BinaryGap\obj\Debug\net6.0\BinaryGap.genruntimeconfig.cache
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\BinaryGap.exe
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\BinaryGap.deps.json
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\BinaryGap.runtimeconfig.json
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\BinaryGap.dll
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\ref\BinaryGap.dll
+D:\CodilityProjEuler\BinaryGap\bin\Debug\net6.0\BinaryGap.pdb
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.AssemblyReference.cache
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfoInputs.cache
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.AssemblyInfo.cs
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.csproj.CoreCompileInputs.cache
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.dll
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\ref\BinaryGap.dll
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.pdb
+D:\CodilityProjEuler\BinaryGap\obj\Debug\net6.0\BinaryGap.genruntimeconfig.cache
